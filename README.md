@@ -28,6 +28,7 @@ this is gold for your final report and viva defense.
 
 | Problem | Solution | Date |
 |---------|----------|------|
+|Search for project topics|Found topics and prepared a list in a pdf|------|
 
 ## References
 Link to docs/references.bib or a short list.
@@ -45,7 +46,7 @@ Link to docs/references.bib or a short list.
 final-year-project/
 ├── README.md                 ← project overview + progress log (see below)
 ├── docs/
-│   ├── literature-review/    ← your source PDFs + notes
+│   ├── literature-review/    ← source PDFs + notes
 │   ├── proposal/              ← project proposal, topic approval docs
 │   ├── diagrams/               ← architecture, CAD exports, flowcharts
 │   └── references.bib         ← or references.md — your bibliography in one place
